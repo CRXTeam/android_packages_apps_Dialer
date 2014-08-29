@@ -92,7 +92,6 @@
                 android:src="@drawable/ic_menu_overflow_lt"
                 android:contentDescription="@string/action_menu_overflow_description" />
         </LinearLayout>
->>>>>>> c0f4bfa... TRDS:[Dialer] Dark Dialer (1/2)
 
         <!-- "Dialpad chooser" UI, shown only when the user brings up the
              Dialer while a call is already in progress.
